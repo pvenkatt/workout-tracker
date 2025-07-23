@@ -13,7 +13,7 @@ A web application to track your workouts, set fitness goals, and monitor progres
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/workout-tracker.git
+    git clone https://github.com/pvenkatt/workout-tracker.git
     ```
 2. Install dependencies:
     ```bash

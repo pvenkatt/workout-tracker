@@ -1,0 +1,18 @@
+.workout-entry {
+    display: grid;        
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 20px; /* row-gap and column-gap */
+    max-width: 500px;
+    margin: 0 auto; 
+    border: 2px solid black; /* debug */ 
+    padding: 15px;
+}
+
+#strength-fields {
+  display: contents;
+  
+}
+
+#other-fields{
+    display: contents;
+}
